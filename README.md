@@ -297,9 +297,3 @@ git clone https://github.com/yourusername/UPI-Transactions-Analytics-Dashboard.g
 # 👨‍💻 Author
 
 **Vivekananda Survi**
-
-
-
----
-
-## ⭐ If you found this project useful, please consider giving it a star!
