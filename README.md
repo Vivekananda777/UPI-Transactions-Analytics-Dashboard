@@ -260,8 +260,6 @@ UPI-Transactions-Analytics-Dashboard/
 │   └── Transaction_Matrix.png
 │
 ├── README.md
-├── LICENSE
-└── .gitignore
 ```
 
 ---
